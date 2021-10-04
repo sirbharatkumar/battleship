@@ -21,9 +21,9 @@ Hope you enjoy this interactive Battleship game !!
 
 **Development Enviornment used:**
 
-VS2019
+- VS2019
 
-.Net Core 3.1
+- .Net Core 3.1
 
 
 
