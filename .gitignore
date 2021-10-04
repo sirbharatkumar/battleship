@@ -1,0 +1,10 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Battleship.Logic/obj
+/Battleship.Logic/bin
+/Battleship.UnitTest/obj
+/Battleship.UnitTest/bin
+/SinglePlayerBattleship/obj
+/SinglePlayerBattleship/bin
